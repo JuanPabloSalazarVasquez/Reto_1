@@ -1,0 +1,15 @@
+body{
+    background-color: red;
+}
+
+.titulos{
+    display: flex;
+}
+
+.titulos .titulo{
+    display: inline-block;
+}
+
+.titulos .subtitulos{
+    display: inline-block;
+}
